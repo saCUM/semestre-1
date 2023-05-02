@@ -16,3 +16,4 @@ print("hola mi nombre es",nombre)
 nombre1= input("¿cual es tu nombre?\n")
 #wuaaaaaaaa
 print("tu nombre es:",nombre1)
+
