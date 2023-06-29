@@ -1,1 +1,0 @@
-print (sum(i for i in range (10,31,2)))
